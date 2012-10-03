@@ -1,0 +1,8 @@
+﻿
+
+INSERT INTO indice VALUES ('ASPI');
+INSERT INTO indice VALUES ('AUCUN');
+INSERT INTO indice VALUES ('DJSI');
+INSERT INTO indice VALUES ('ESI');
+INSERT INTO indice VALUES ('FTSE');
+commit;

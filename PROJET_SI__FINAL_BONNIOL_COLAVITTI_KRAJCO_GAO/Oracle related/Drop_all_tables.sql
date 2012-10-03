@@ -1,0 +1,14 @@
+DROP TABLE fait_apparaitre;
+DROP TABLE correspond;
+DROP TABLE appartient_indice;
+DROP TABLE page_web;
+DROP TABLE entreprise;
+DROP TABLE sous_secteur;
+DROP TABLE secteur;
+DROP TABLE super_secteur;
+DROP TABLE industrie;
+DROP TABLE pays;
+DROP TABLE mot_cle;
+DROP TABLE categorie;
+DROP TABLE indice;
+commit;

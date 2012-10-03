@@ -1,0 +1,13 @@
+DELETE FROM fait_apparaitre;
+DELETE FROM correspond;
+DELETE FROM page_web;
+DELETE FROM entreprise;
+DELETE FROM sous_secteur;
+DELETE FROM secteur;
+DELETE FROM super_secteur;
+DELETE FROM industrie;
+DELETE FROM pays;
+DELETE FROM mot_cle;
+DELETE FROM categorie;
+DELETE FROM appartient_indice;
+DELETE FROM indice;
